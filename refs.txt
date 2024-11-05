@@ -15,3 +15,4 @@
 15. Subunit epsilon of E. coli F1Fo ATP synthase attenuates enzyme activity by modulating central stalk flexibility. Meghna Sobti, James L. Walshe, Yi C. Zeng, Robert Ishmukhametov, Alastair G. Stewart. bioRxiv 2020.09.30.320408; doi: https://doi.org/10.1101/2020.09.30.320408
 16. Лапашина, А.С & Фенюк, Б.А. (2018). АДФ-ингибирование H+-F0F1-АТФ синтазы. БИОХИМИЯ, 2018, том 83, вып. 10, с. 1427–1449. DOI: 10.1134/S0320972518100019
 17. Uhlin U, Cox GB, Guss JM. Crystal structure of the epsilon subunit of the proton-translocating ATP synthase from Escherichia coli. Structure. 1997 Sep 15;5(9):1219-30. doi: 10.1016/s0969-2126(97)00272-4. PMID: 9331422.
+18. Feniouk BA, Suzuki T, Yoshida M. The role of subunit epsilon in the catalysis and regulation of FOF1-ATP synthase. Biochim Biophys Acta. 2006 May-Jun;1757(5-6):326-38. doi: 10.1016/j.bbabio.2006.03.022. Epub 2006 Apr 4. PMID: 16701076.
