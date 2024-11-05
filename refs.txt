@@ -1,0 +1,12 @@
+1. P. Mitchell, Coupling of photophosphorylation to electron and hydrogen transfer by a chemiosmotic type of mechanism, Nature 191 (1961) 144–148.
+2. Nakano, A., Kishikawa, Ji., Mitsuoka, K. et al. Mechanism of ATP hydrolysis dependent rotation of bacterial ATP synthase. Nat Commun 14, 4090 (2023). https://doi.org/10.1038/s41467-023-39742-5
+3. Mulkidjanian, A. Y., Makarova, K. S., Galperin, M. Y., and Koonin, E. V. (2007) Inventing the dynamo machine: the evolution of the F-type and V-type ATPases, Nat. Rev. Microbiol., 5, 892-899, doi: 10.1038/nrmicro1767.
+4. Gogarten, J. P., and Taiz, L. (1992) Evolution of proton pumping ATPases: rooting the tree of life, Photosynth. Res., 33, 137-146, doi: 10.1007/BF00039176.
+5. Kühlbrandt, W., and Davies, K. M. (2016) Rotary ATPases: a new twist to an ancient machine, Trends Biochem. Sci., 41, 106-116, doi: 10.1016/j.tibs.2015.10.006.
+6. Schäfer, G., Engelhard, M., and Müller, V. (1999) Bioenergetics of the Archaea, Microbiol. Mol. Biol. Rev., 570-620, doi: 10.1128/mmbr.63.3.570-620.1999.
+7. Jonckheere AI, Smeitink JA, Rodenburg RJ. Mitochondrial ATP synthase: architecture, function and pathology. J Inherit Metab Dis. 2012 Mar; 35(2):211-25. doi: 10.1007/s10545-011-9382-9. Epub 2011 Aug 27. PMID: 21874297; PMCID: PMC3278611.
+8. Зубарева, В.М & Лапашина, А.С & Шугаева, Т.Е & Литвин, А.В & Фенюк, Б.А. (2020). Роторные ион-транслоцирующие АТФазы/АТФ-синтазы: разнообразие, общие черты и отличия. Биохимия. 85. 1898-1917. 10.31857/S0320972520120131.
+9.  Zhou, L., and Sazanov, L. A. (2019) Structure and conformational plasticity of the intact Thermus thermophilus V/A-type ATPase, Science, 365, doi: 10.1126/science.aaw9144.
+10. Ihara, K., Abe, T., Sugimura, K. I., and Mukohata, Y. (1992) Halobacterial A-ATP synthase in relation to V-ATPase, J. Exp. Biol., 172, 475-485.
+
+3. The Journal of Biochemistry, Volume 149, Issue 6, June 2011, Pages 655–664, https://doi.org/10.1093/jb/mvr049
