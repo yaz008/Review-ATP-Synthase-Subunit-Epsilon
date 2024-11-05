@@ -12,3 +12,6 @@
 12. Guo H, Suzuki T, Rubinstein JL. Structure of a bacterial ATP synthase. Elife. 2019 Feb 6;8:e43128. doi: 10.7554/eLife.43128. PMID: 30724163; PMCID: PMC6377231.
 13. Скулачев В.П., Богачев А.В., Каспаринский Ф.О. Мембранная биоэнергетика. — М.: Издательство Московского университета, 2011. — 360 с. ISBN 978-5-211-05871-2
 14. C. Kayalar, J. Rosing, P.D. Boyer, An alternating site sequence for oxidative phosphorylation suggested by measurement of substrate binding patterns and exchange reaction inhibitions, J. Biol. Chem. 252 (1977) 2486–2491
+15. Subunit epsilon of E. coli F1Fo ATP synthase attenuates enzyme activity by modulating central stalk flexibility. Meghna Sobti, James L. Walshe, Yi C. Zeng, Robert Ishmukhametov, Alastair G. Stewart. bioRxiv 2020.09.30.320408; doi: https://doi.org/10.1101/2020.09.30.320408
+16. Лапашина, А.С & Фенюк, Б.А. (2018). АДФ-ингибирование H+-F0F1-АТФ синтазы. БИОХИМИЯ, 2018, том 83, вып. 10, с. 1427–1449. DOI: 10.1134/S0320972518100019
+17. Uhlin U, Cox GB, Guss JM. Crystal structure of the epsilon subunit of the proton-translocating ATP synthase from Escherichia coli. Structure. 1997 Sep 15;5(9):1219-30. doi: 10.1016/s0969-2126(97)00272-4. PMID: 9331422.
