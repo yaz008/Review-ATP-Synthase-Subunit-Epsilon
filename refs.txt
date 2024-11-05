@@ -10,3 +10,5 @@
 10. Ihara, K., Abe, T., Sugimura, K. I., and Mukohata, Y. (1992) Halobacterial A-ATP synthase in relation to V-ATPase, J. Exp. Biol., 172, 475-485.
 11. The Journal of Biochemistry, Volume 149, Issue 6, June 2011, Pages 655–664, https://doi.org/10.1093/jb/mvr049
 12. Guo H, Suzuki T, Rubinstein JL. Structure of a bacterial ATP synthase. Elife. 2019 Feb 6;8:e43128. doi: 10.7554/eLife.43128. PMID: 30724163; PMCID: PMC6377231.
+13. Скулачев В.П., Богачев А.В., Каспаринский Ф.О. Мембранная биоэнергетика. — М.: Издательство Московского университета, 2011. — 360 с. ISBN 978-5-211-05871-2
+14. C. Kayalar, J. Rosing, P.D. Boyer, An alternating site sequence for oxidative phosphorylation suggested by measurement of substrate binding patterns and exchange reaction inhibitions, J. Biol. Chem. 252 (1977) 2486–2491
